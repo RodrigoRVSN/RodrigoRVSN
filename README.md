@@ -7,14 +7,15 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rodrigo-victor-5a7707174" target="blank">
+<a target="_blank" href="https://linkedin.com/in/rodrigo-victor-5a7707174" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-victor-5a7707174" height="30" width="40"   />
 </a>
-<a href="https://instagram.com/rodrigo_rvsn" target="blank">
+<a target="_blank" href="https://instagram.com/rodrigo_rvsn" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rodrigo_rvsn" height="30" width="40"/>
 </a>
 </p>
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RodrigoRVSN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 <a href="https://github.com/RodrigoRVSN">
 <h3 align="left">Languages and Tools:</h3>
