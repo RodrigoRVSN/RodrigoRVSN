@@ -16,6 +16,7 @@
 </p>
 
   
+<a href="https://github.com/RodrigoRVSN">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -25,6 +26,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"             height="40"/> 
 </p>
 
-<a href="https://github.com/RodrigoRVSN">
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RodrigoRVSN&layout=compact&langs_count=8&theme=dracula"/></a>
 
