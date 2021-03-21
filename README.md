@@ -7,10 +7,10 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a target="_blank" href="https://linkedin.com/in/rodrigo-victor-5a7707174" target="blank">
+<a href="https://linkedin.com/in/rodrigo-victor-5a7707174" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-victor-5a7707174" height="30" width="40"   />
 </a>
-<a target="_blank" href="https://instagram.com/rodrigo_rvsn" target="blank">
+<a href="https://instagram.com/rodrigo_rvsn" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rodrigo_rvsn" height="30" width="40"/>
 </a>
 </p>
