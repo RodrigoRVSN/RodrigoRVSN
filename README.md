@@ -1,38 +1,63 @@
-<h1 align="center">Hi, I'm Rodrigo ☕︎</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
-
-- 🌱 I’m currently learning **Front-end development**
-
-- 📫 How to reach me **rodrigovictor81@gmail.com**
+<img src="assets/banner_rodrigo_victor.png" heigth="200"/>
 
 <div align="center">
-<h3>Connect with me:</h3>
-<p>
-<a href="https://linkedin.com/in/rodrigo-victor-5a7707174" target="_blank">
-  <img align="center" src="https://i.pinimg.com/originals/58/99/22/589922e187ab719d0afa9c4c2993019b.png" alt="rodrigo-victor-5a7707174" height="40" width="40"   />
-</a>
-<a href="https://instagram.com/rodrigo_rvsn" target="_blank" >
-  <img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="rodrigo_rvsn" height="40" width="40"/>
-</a>
-</p>
+  <img align="right" src="assets/person.png" height="200" />
+  
+  <h3 align="center" >🧍 About me:</h3>
+    <li>👨‍💻 I'm learning and working with the Javascript Stack.</li>
+    <li>📚 Self-taught.</li>
+    <li>🏴‍☠️ I love One piece.</li>
+  
+  ---
+  
+  <h3 align="center" >👋 Say hi:</h3>
+  <div style="display: inline_block">
+    
+  <div>
+    <a href="https://linkedin.com/in/rodrigo-victor-5a7707174" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/rodrigo_rvsn" target="_blank" > 
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
+    <a href="mailto:rodrigovictor81@gmail.com?subject=Hello%20again" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://app.rocketseat.com.br/me/rodrigorvsn" target="_blank">
+      <img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=rocket" />
+    </a>
 
-<a href="https://github.com/RodrigoRVSN">
-  <h3></br>Languages and Tools:</h3>
-<p> 
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"  
-       height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="50" height="40"/>  
-  <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" alt="nodejs" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>  
-  <img src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_9ds9kugm99g51.png?width=256&s=3ee4c30d4736dc4024319d53c20c6dacb5d11bb0" alt="nextjs" width="40" height="40"/> 
-</p>
+  </div>
+  </div>
+   
+  ---
+  
+  <h3></br>🛠️ Languages, frameworks and libs:</h3>
+  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  
+  ---
  
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RodrigoRVSN&layout=compact&langs_count=8&theme=dracula"/></a>
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RodrigoRVSN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <h3></br>💻 Others:</h3>
+  
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+  ---
+  
 </div>
-
+  <div align="center" >
+  <img width="400px" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RodrigoRVSN&layout=compact&langs_count=8&theme=radical" />
+  <img width="400px" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RodrigoRVSN&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  </div>
+  
+  
+  ![Snake animation](https://github.com/rodrigorvsn/rodrigorvsn/blob/output/github-contribution-grid-snake.svg)
