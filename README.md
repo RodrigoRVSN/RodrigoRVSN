@@ -1,17 +1,26 @@
-<img src="assets/banner_rodrigo_victor.png" heigth="200"/>
+<img src="assets/banner_rodrigo_victor.png" style="border-radius:0 0 20px 20px;" heigth="100"/>
+
+---
 
 <div align="center">
-  <img align="right" src="assets/person.png" height="200" />
+  <img align="right" src="assets/person.gif" style="border-radius:10px;" height="160" />
   
-  <h3 align="center" >🧍 About me:</h3>
+  </br>
+  <h3 style="margin-left:50px;" align="left" >🧍 About me:</h3>
+  </br>
+  <ul align="left">
     <li>👨‍💻 I'm learning and working with the Javascript Stack.</li>
     <li>📚 Self-taught.</li>
-    <li>🏴‍☠️ I love One piece.</li>
-  
-  ---
-  
+    <li>🍫 I have chocolate allergy</li>
+  </ul>
+  </br>
+
+---
+
+  </br>
+  </br>
   <h3 align="center" >👋 Say hi:</h3>
-  <div style="display: inline_block">
+  </br>
     
   <div>
     <a href="https://linkedin.com/in/rodrigo-victor-5a7707174" target="_blank">
@@ -26,13 +35,12 @@
     <a href="https://app.rocketseat.com.br/me/rodrigorvsn" target="_blank">
       <img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=rocket" />
     </a>
-
-  </div>
   </div>
    
   ---
   
   <h3></br>🛠️ Languages, frameworks and libs:</h3>
+  </br>
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,10 +48,12 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  </br>
   
   ---
  
   <h3></br>💻 Others:</h3>
+  </br>
   
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -54,10 +64,15 @@
   ---
   
 </div>
+  </br>
   <div align="center" >
-  <img width="400px" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RodrigoRVSN&layout=compact&langs_count=8&theme=radical" />
-  <img width="400px" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RodrigoRVSN&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img width="400px" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RodrigoRVSN&layout=compact&langs_count=8&theme=radical" />
+    <img width="400px" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RodrigoRVSN&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   </div>
+  </br>
+
+---
+
+</br>
   
-  
-  ![Snake animation](https://github.com/rodrigorvsn/rodrigorvsn/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rodrigorvsn/rodrigorvsn/blob/output/github-contribution-grid-snake.svg)
