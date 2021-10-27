@@ -36,6 +36,7 @@
       <img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=rocket" />
     </a>  
   </div>
+  </br>
   
   ---
   
