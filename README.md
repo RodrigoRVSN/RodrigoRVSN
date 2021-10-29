@@ -13,6 +13,7 @@
     <li>🔥 Focused in <b>React, Node and React Native.</b></li>
     <li>📚 Self-taught.</li>
     <li>🍫 I have chocolate allergy. 😅</li>
+    <li>✉ How to reach me: <a href="mailto:rodrigovictor81@gmail.com?subject=Hello%20Rodrigo">rodrigovictor81@gmail.com</a> </li>
   </div>
   
   </br>
