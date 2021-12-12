@@ -12,31 +12,10 @@
     <li>👨‍💻 I'm learning and working with the <b>Javascript</b> Stack.</li>
     <li>🔥 Focused in <b>React, Node and React Native.</b></li>
     <li>📚 Self-taught.</li>
-    <li>🍫 I have chocolate allergy. 😅</li>
     <li>✉ How to reach me: <a href="mailto:rodrigovictor81@gmail.com?subject=Hello%20Rodrigo">rodrigovictor81@gmail.com</a> </li>
+    <li>🍫 I have chocolate allergy. 😅</li>
   </div>
   
-  </br>
-
----
-
-  </br>
-  <h3 align="center">Say hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h3>
-  </br>
-  <div>
-    <a href="https://linkedin.com/in/rodrigo-victor-5a7707174" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/rodrigo_rvsn" target="_blank" > 
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-    </a>
-    <a href="mailto:rodrigovictor81@gmail.com?subject=Hello%20again" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://app.rocketseat.com.br/me/rodrigorvsn" target="_blank">
-      <img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=rocket" />
-    </a>  
-  </div>
   </br>
   
   ---
@@ -81,6 +60,29 @@
   </br>
 </div>  
 
+---
+
+
+<div align="center"> 
+  <h3 align="center">Say hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h3>
+  </br>
+  <div>
+    <a href="https://linkedin.com/in/rodrigo-victor-5a7707174" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/rodrigo_rvsn" target="_blank" > 
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
+    <a href="mailto:rodrigovictor81@gmail.com?subject=Hello%20again" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://app.rocketseat.com.br/me/rodrigorvsn" target="_blank">
+      <img src="https://img.shields.io/badge/🚀 Rocketseat-%237159c1?style=for-the-badge&logo=rocket" />
+    </a>  
+  </div>
+  </br>
+  </div>
+
   ---
   
 </div>
@@ -94,6 +96,3 @@
 ---
 
 </br>
-  
-![Snake animation](https://github.com/rodrigorvsn/rodrigorvsn/blob/output/github-contribution-grid-snake.svg)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rodrigorvsn" alt="Profile views" /> </p>
