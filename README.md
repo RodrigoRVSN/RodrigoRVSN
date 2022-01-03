@@ -1,7 +1,3 @@
-<img src="assets/banner_rodrigo_victor.png" style="border-radius:0 0 20px 20px;" heigth="100"/>
-
----
-
 <div align="center">
   <img align="right" src="assets/person.gif" style="border-radius:10px;" height="160" />
   
@@ -11,7 +7,6 @@
   <div align="left">
     <li>👨‍💻 I'm learning and working with the <b>Javascript</b> Stack.</li>
     <li>🔥 Focused in <b>React, Node and React Native.</b></li>
-    <li>📚 Self-taught.</li>
     <li>✉ How to reach me: <a href="mailto:rodrigovictor81@gmail.com?subject=Hello%20Rodrigo">rodrigovictor81@gmail.com</a> </li>
     <li>🍫 I have chocolate allergy. 😅</li>
   </div>
@@ -20,10 +15,7 @@
   
   ---
   
-<div align="center">
-  <img align="right" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" width="200px"/>
-  
-  
+<div align="center"> 
   <div align="left">
     </br>
   <h3 style="margin-left:50px;">🛠️ Languages, frameworks and libs:</h3>
@@ -36,20 +28,6 @@
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   
-  </div>
-  </br>
-</div>  
-  
-  ---
- 
-<div align="center">
-  <img align="right" src="https://cdn.dribbble.com/users/2154592/screenshots/10163860/image.gif" width="200px"/>
-  
-  <div align="left">
-    </br>
-  <h3 style="margin-left:50px;">💻 Others:</h3>
-  </br>
-    
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -59,6 +37,7 @@
   </div>
   </br>
 </div>  
+   
 
 ---
 
