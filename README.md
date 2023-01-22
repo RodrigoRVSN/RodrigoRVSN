@@ -47,7 +47,7 @@ ___
     <img src="https://img.shields.io/badge/-LinkedIn-3755AF?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a
-    href="https://www.linkedin.com/in/rodrigorvsn/" 
+    href="https://www.instagram.com/rodrigo_rvsn/" 
     alt="Instagram"
     target="blank"
   >
