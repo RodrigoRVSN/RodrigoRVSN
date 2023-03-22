@@ -35,23 +35,3 @@
   </div>
   </br>
 </div>  
-
-___
-
-<p align="center">
-  <a
-    href="https://www.linkedin.com/in/rodrigorvsn/" 
-    alt="LinkedIn"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-LinkedIn-3755AF?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-  <a
-    href="https://www.instagram.com/rodrigo_rvsn/" 
-    alt="Instagram"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
-  </a>
-  
-</p>
