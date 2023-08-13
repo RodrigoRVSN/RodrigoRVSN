@@ -1,8 +1,10 @@
 # Hello! 👋 
 
-- 👩‍💻 I'm currently working as a front-end developer.
-- 💻 Also exposed to backend development, with a focus on becoming a technology-agnostic developer.
-- 🎓 Computer engineering student, learning more about software engineering.
+- **Name**: Rodrigo Victor
+- **From**: São Paulo, Brazil.
+- **Degree**: Computer engineering, focusing in software engineering.
+- I'm currently working as a front-end developer.
+- Also exposed to back-end development, with a focus on becoming a technology-agnostic developer and continuous learning about system design.
   
 # Tech stack
   
@@ -22,16 +24,14 @@
 
 # Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigorvsn/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigo_rvsn) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rodrigovictor81) 
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-</br>
-  
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=rodrigorvsn&theme=neon"  width="364px" />                    
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigorvsn&theme=neon" width="400px" />               
-
-</details>
+<div>
+    <a target='_blank' href="https://linkedin.com/in/rodrigorvsn/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a target='_blank' href="https://twitter.com/rodrigovictor81">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a target='_blank' href="https://instagram.com/rodrigo_rvsn">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+</div>
