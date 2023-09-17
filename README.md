@@ -2,7 +2,7 @@
 
 - **Name**: Rodrigo Victor
 - **From**: São Paulo, Brazil.
-- **Degree**: Computer engineering, focusing in software engineering.
+- **Degree**: Computer engineering, focusing on software engineering.
 - I'm currently working as a front-end developer.
 - Also exposed to back-end development, with a focus on becoming a technology-agnostic developer and continuous learning about system design.
   
